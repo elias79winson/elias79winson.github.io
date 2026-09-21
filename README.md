@@ -8,8 +8,8 @@ Welcome to my personal GitHub hub. I specialize in mechanical engineering concep
 
 ### Key Projects & Showcase
 
-* **[Project 4F](https://elias79winson.github.io/4f)** — Patent Pending elastomeric interface prototype featuring advanced acoustic feedback cavities.
-* **[Amour Virgin](https://elias79winson.github.io/amourvirgin)** — Innovation concept in women’s undergarment architecture focused on seamless barrier protection and ergonomics.
+* **[Project the 4f](https://elias79winson.github.io/4f)** — Patent Pending elastomeric interface prototype featuring advanced acoustic feedback cavities.
+* **[AmourVirgin](https://elias79winson.github.io/amourvirgin)** — Innovation concept in women’s undergarment architecture focused on seamless barrier protection and ergonomics.
 
 ---
 
