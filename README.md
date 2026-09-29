@@ -1,6 +1,6 @@
 # Elias Winson
 
-**Innovation & Hardware Product Design Lab**
+**Product R&D & Innovation lab**
 
 Welcome to my personal GitHub hub. I specialize in mechanical engineering concepts, intellectual property development, and industrial product architecture.
 
